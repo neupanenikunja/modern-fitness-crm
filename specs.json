@@ -1,0 +1,30 @@
+{
+  "profileFields": ["Name", "Age", "Gender", "Contact", "Occupation/Profession", "Health conditions/limitations", "Fitness level", "Current daily physical activity"],
+  "goals": ["Muscle strengthening", "Weight management", "Energy & productivity boost", "General fitness"],
+  "metrics": ["Weight", "Body measurements", "Body fat %", "BMI", "Progress photos"],
+  "measurementFrequency": ["Bi-weekly", "Monthly", "Yearly", "Custom"],
+  "workoutTracking": {
+    "enabled": true,
+    "track": ["Workout plans assigned", "Days trained per week", "Exercises, sets, reps, weight", "Progressive overload", "Attendance", "Exercise videos"]
+  },
+  "nutritionTracking": {
+    "enabled": true,
+    "track": ["Calorie targets", "Macros", "Meal plans", "Water intake", "Supplements"]
+  },
+  "energyProductivity": {
+    "enabled": true,
+    "track": ["Daily energy levels (1-10)", "Work productivity rating", "Sleep hours/quality", "Stress levels", "Mood/motivation"],
+    "correlation": true
+  },
+  "checkins": ["Weekly check-in notes", "Monthly", "Session attendance tracking", "Client feedback/concerns", "Communication history"],
+  "reports": {
+    "include": ["Before/after comparisons", "Measurement changes (graphs)", "Workout consistency stats", "Goal achievement %", "Recommendations"],
+    "frequency": ["Monthly", "Quarterly", "Yearly"],
+    "format": ["In app", "Export PDF"]
+  },
+  "programs": ["Program name & duration", "Start/end dates", "Pricing", "Program status"],
+  "dashboard": ["Active clients count", "Clients needing check-ins today", "Overall progress summary", "Today's scheduled sessions", "Recent achievements"],
+  "views": ["Individual client profile (detailed)", "Analytics dashboard"],
+  "additional": ["Search & filter clients", "Achievement badges", "Reminders", "Client notes/comments", "Export data", "Messaging", "Nepali (BS) + English date support"],
+  "niceToHave": ["Monthly payment tracking", "Agreed quotation storage"]
+}
